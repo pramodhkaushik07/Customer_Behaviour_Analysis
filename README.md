@@ -1,6 +1,7 @@
 # Customer Behavior Analytics 
 Turning Transactional Data into Commercial Strategy
 
+![Power BI Dashboard Preview](https://github.com/user-attachments/assets/389c413b-e040-43ba-b5d7-3d16f705b145)
 ---
 
 ## 📌 Executive Perspective
